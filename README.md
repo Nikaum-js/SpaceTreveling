@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/SpaceTreveling?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/SpaceTreveling?style=for-the-badge)
 
-<img src="./wildbeast.PNG" alt="exemplo imagem">
+<img src="./public/images/SpaceTreveling.PNG" alt="exemplo imagem">
 
 > Esse é um projeto que eu fiz para treinar o meu css grid layout
 > 
