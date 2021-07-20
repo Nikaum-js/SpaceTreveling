@@ -9,10 +9,12 @@
 > 
 ## Linguagens utilizadas
 
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [SASS](https://sass-lang.com/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Instalando Wildbeast
+## 🚀 Instalando SpaceTreveling
 
 Para instalar o SpaceTreveling, siga estas etapas:
 
