@@ -5,7 +5,7 @@
 
 <img src="./public/images/SpaceTreveling.PNG" alt="exemplo imagem">
 
-> Esse é um projeto que eu fiz para treinar o meu css grid layout
+> Esse projeto é um desafio do capitulo 3 do Ignite, é um blog que puxa todo o conteúdo do Prismic.
 > 
 ## Linguagens utilizadas
 
