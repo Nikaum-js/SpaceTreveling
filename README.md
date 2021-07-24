@@ -24,7 +24,7 @@ git clone https://github.com/Nikolas-as/SpaceTreveling.git
 
 cd SpaceTreveling
 
-npm start
+yarn dev
 ```
 ## 🤝 Colaboradores
 
