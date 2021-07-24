@@ -14,7 +14,7 @@
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 🚀 Instalando SpaceTreveling
+## 🚀 Instalando o SpaceTreveling
 
 Para instalar o SpaceTreveling, siga estas etapas:
 
