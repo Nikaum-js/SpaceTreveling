@@ -5,7 +5,7 @@
 
 <img src="./public/images/SpaceTreveling.PNG" alt="exemplo imagem">
 
-> Esse projeto é um desafio do capitulo 3 do Ignite, é um blog que puxa todo o conteúdo do Prismic.
+> Esse projeto é um desafio do capitulo 3 do Ignite, é um blog que puxa todo o conteúdo dos blog do Prismic.
 > 
 ## Linguagens utilizadas
 
