@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/SpaceTreveling?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/SpaceTreveling?style=for-the-badge)
 
-<img src="./public/images/SpaceTreveling.PNG" alt="exemplo imagem">
+<img src="./public/images/SpaceTreveling.PNG" >
 
 > Esse projeto é um desafio do capitulo 3 do Ignite, é um blog que puxa todo o conteúdo dos blog do Prismic.
 > 
